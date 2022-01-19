@@ -31,4 +31,4 @@ mvn archetype:generate -DgroupId=org.kurz -DartifactId=moje-apka  -DarchetypeArt
 . Run `mvn clean package  &&  java -jar target/moje-apka-*.jar`
 
 Should print `Hello world!` on success.
-New line 3
+New line 4
